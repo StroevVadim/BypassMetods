@@ -1,0 +1,8 @@
+C:\Users\trolo\Desktop\Projects\C#\Bypass Metods\bin\Release\Bypass Metods.exe.config
+C:\Users\trolo\Desktop\Projects\C#\Bypass Metods\bin\Release\Bypass Metods.exe
+C:\Users\trolo\Desktop\Projects\C#\Bypass Metods\bin\Release\Bypass Metods.pdb
+C:\Users\trolo\Desktop\Projects\C#\Bypass Metods\obj\Release\Bypass Metods.csproj.AssemblyReference.cache
+C:\Users\trolo\Desktop\Projects\C#\Bypass Metods\obj\Release\Bypass Metods.csproj.SuggestedBindingRedirects.cache
+C:\Users\trolo\Desktop\Projects\C#\Bypass Metods\obj\Release\Bypass Metods.csproj.CoreCompileInputs.cache
+C:\Users\trolo\Desktop\Projects\C#\Bypass Metods\obj\Release\Bypass Metods.exe
+C:\Users\trolo\Desktop\Projects\C#\Bypass Metods\obj\Release\Bypass Metods.pdb
